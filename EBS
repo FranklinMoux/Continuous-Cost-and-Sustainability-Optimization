@@ -1,0 +1,7 @@
+This module is divided into two main scenarios where you will go through labs leveraging different techniques to optimize usage, your sustainability footprint and spend.
+
+Scenario 1: This scenario covers EBS migration from GP2 volumes to GP3 volumes, in this scenario you will implement the changes via console, and at scale. Migrating GP2 volumes to GP3 will improve the performance and efficiency of your volumes by using newer underlying technologies and hardware, giving you the option to specify IOPS and throughput independently of volume size.
+
+Scenario 2: This scenario covers use cases where EBS snapshot management can be improved reducing overall storage cost and resource utilization.
+
+Some volumes will have the tag with key environment that identify them as either prod or test.

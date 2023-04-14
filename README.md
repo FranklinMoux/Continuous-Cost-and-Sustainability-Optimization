@@ -7,4 +7,4 @@ This workshop uses AWS Workshop Studio, it can be used at AWS-run events. An acc
 
 The goal of this section is to help you access this AWS account. You may skip this section if you plan to use your own AWS account.
 
-** Prerequisites **
+**Prerequisites**

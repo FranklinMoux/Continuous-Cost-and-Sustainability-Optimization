@@ -5,3 +5,25 @@ Scenario 1: This scenario covers EBS migration from GP2 volumes to GP3 volumes, 
 Scenario 2: This scenario covers use cases where EBS snapshot management can be improved reducing overall storage cost and resource utilization.
 
 Some volumes will have the tag with key environment that identify them as either prod or test.
+
+
+Scenario 1 - EBS Volumes migration from GP2 to GP3
+
+Intro
+As part of the CCOE team, you have collaborated with the FinOps team to optimize the General Purpose Volumes in terms of cost and efficiency. Working together, you have identified from the AWS EBS Pricing page that EBS gp3 volumes are cheaper than gp2 volumes and provide more IOPS.
+
+Using gp3 volumes, the application owners and end-users can configure the amount of IOPS and throughput that will be needed from the EBS block storage, allowing you to enable the SUS04-BP04 Minimize over-provisioning in block storage  best practice described in the Sustainability Pillar of the Well-Architected Framework. ebsgp2gp3pricing
+
+Reading the Migrate your Amazon EBS volumes from gp2 to gp3 and save up to 20% on costs  blog post, you have confirmation that the migration can be done while the associated instances that uses that EBS volumes are running as per the following quote:
+
+Amazon EBS Elastic Volumes enable you to modify your volume type from gp2 to gp3 without detaching volumes or restarting instances (requirements for modification), which means that there are no interruptions to your applications during modification.
+
+You have, in any case, informed the application owners, and the end users about the migration of all dev volumes from gp2 to gp3. If successful you will migrate all prod volumes from gp2 to gp3 as well. Even if the migration does not require any interruption of the instances, you have agreed with the application owners a time window for the migration that starts now!
+
+You will first start doing this migration via the AWS console, and then you will run an automation provided by your automation team to do it at scale using the AWS SDK.
+
+Optimization Goals
+Migrate all volumes with tag_key=environment and tag_value=dev from gp2 to gp3
+If successful, migrate all the prod volumes as well, which are all the volumes with tag_key=environment and tag-value=prod
+Reduce costs and allow end users and application owners to set IOPS and throughput at a later stage as suggested by the SUS04-BP04 Minimize over-provisioning in block storage  sustainability Well-Architected best practices.
+References

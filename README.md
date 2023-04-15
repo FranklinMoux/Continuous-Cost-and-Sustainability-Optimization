@@ -1,4 +1,4 @@
-****Continuous-Cost-and-Sustainability-Optimization****
+##ontinuous-Cost-and-Sustainability-Optimization##
 
 Best practices for cost and sustainability optimization will be the focus.
 

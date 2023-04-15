@@ -7,7 +7,7 @@ Scenario 2: This scenario covers use cases where EBS snapshot management can be 
 Some volumes will have the tag with key environment that identify them as either prod or test.
 
 
-Scenario 1 - EBS Volumes migration from GP2 to GP3
+###Scenario 1 - EBS Volumes migration from GP2 to GP3###
 
 Intro
 As part of the CCOE team, you have collaborated with the FinOps team to optimize the General Purpose Volumes in terms of cost and efficiency. Working together, you have identified from the AWS EBS Pricing page that EBS gp3 volumes are cheaper than gp2 volumes and provide more IOPS.

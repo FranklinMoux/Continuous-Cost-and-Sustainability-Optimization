@@ -27,3 +27,12 @@ Migrate all volumes with tag_key=environment and tag_value=dev from gp2 to gp3
 If successful, migrate all the prod volumes as well, which are all the volumes with tag_key=environment and tag-value=prod
 Reduce costs and allow end users and application owners to set IOPS and throughput at a later stage as suggested by the SUS04-BP04 Minimize over-provisioning in block storage  sustainability Well-Architected best practices.
 References
+
+
+---
+layout: default
+permalink: /404.html
+---
+
+# 404
+Page not found :(

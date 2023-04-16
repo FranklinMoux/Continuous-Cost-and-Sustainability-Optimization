@@ -1,4 +1,9 @@
 The goal of this section is to help you access this AWS account. You may skip this section if you plan to use your own AWS account.
 
-** Prerequisites **
+# this is a normal comment
+echo "blah blah" # this is tailing comment
 
+echo "blah" \
+    | sed 's/h/g/g' `# this is also comment` \
+    | sed 's/a/o/g' \
+    | less

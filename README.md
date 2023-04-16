@@ -13,3 +13,11 @@
 <p><em>world</em>.
 </pre></p>
 </td></tr></table>
+
+<table><tr><td>
+<pre>
+**Hello**,
+
+_world_.
+</pre>
+</td></tr></table>

@@ -6,5 +6,6 @@
 - Shift `costs and sustainability responsibilities` from the `Cloud Center of Excellence (CCoE)` to `end users` and `application owners` aided by automation at scale.
 
 - `Cost efficiency and implementation of mechanisms` that empower application owners to have clear, actionable tasks for `cost and sustainability optimization`, building upon 'real-world use cases.
+- 
  $ ls *.sh
-        $ mv *.sh ~/tmp
+ $ mv *.sh ~/tmp

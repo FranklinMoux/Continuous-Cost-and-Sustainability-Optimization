@@ -14,15 +14,6 @@
 </pre></p>
 </td></tr></table>
 
-<table>
-  <tr>
-    <td>
-           hi
-    </td>
-  </tr>
-</table>
-<p>okay.</p>
-
 <table><tr><td>
 Let's do it!
 </td></tr></table>

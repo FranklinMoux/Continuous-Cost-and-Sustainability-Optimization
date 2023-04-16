@@ -17,8 +17,3 @@
 <table><tr><td>
 Let's do it!
 </td></tr></table>
-
-<pre language="haskell"><code>
-import Text.HTML.TagSoup
-
-<p><img src="train.jpg" alt="foo bar" title="train &amp; tracks" /></p>

@@ -22,3 +22,7 @@
   </tr>
 </table>
 <p>okay.</p>
+
+<div>
+  *hello*
+         <foo><a>

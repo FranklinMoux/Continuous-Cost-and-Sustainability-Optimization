@@ -7,7 +7,5 @@
 
 - `Cost efficiency and implementation of mechanisms` that empower application owners to have clear, actionable tasks for `cost and sustainability optimization`, building upon 'real-world use cases.
 
-.................
-$ ls *.sh
-$ mv *.sh ~/tmp
-.................
+This paragraph belongs to item two of the outer list.
+--

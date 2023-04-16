@@ -3,37 +3,25 @@ The goal of this section is to help you access this AWS account. You may skip th
 # this is a normal comment
 echo "blah blah" # this is tailing comment
 
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+# Syntax.
 
-<svg
-   version="1.1"
-   id="Layer_1"
-   x="0px"
-   y="0px"
-   viewBox="0 0 304.70001 103.2"
-   enable-background="new 0 0 960 560"
-   xml:space="preserve"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="micro-logo-drop.svg"
-   width="304.70001"
-   height="103.2"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
-     id="metadata21"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs19"><filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Blur"
-       id="filter1040"
-       x="-0.028037383"
-       y="-0.10549451"
-       width="1.0560748"
-       height="1.210989"><feGaussianBlur
-         stdDeviation="2 2"
+A tasty treats podcast for Web Developers.
+
+This is the site that runs [Syntax.fm](https://syntax.fm) — go there to listen to it!
+
+This site is built on React and Next.js
+
+## Requirements
+- Node 8.1.2 or higher
+
+## Development
+
+First you `npm install`
+
+Then you `npm run dev` and visit `http://localhost:6969`.
+
+Then you do some work.
+
+When you are ready for prime time, you can just submit a PR to this repo and it will be deployed once it's accepted.
+
+If you want to build your own version, just run `npm run build` and then I'd recommend deploying with `now`.

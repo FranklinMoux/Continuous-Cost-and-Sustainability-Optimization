@@ -1,7 +1,7 @@
 ## Continuous Cost and Sustainability Optimization
 
 ```ruby
-- Best practices for 'cost and sustainability optimization' will be the focus.
+- 'Best practices for' cost and sustainability optimization 'will be the focus.'
 
 - Shift 'costs and sustainability responsibilities' from the 'Cloud Center of Excellence (CCoE)' to 'end users' and 'application owners' aided by automation at scale.
 

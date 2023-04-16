@@ -21,7 +21,4 @@ Let's do it!
 <pre language="haskell"><code>
 import Text.HTML.TagSoup
 
-main :: IO ()
-main = print $ parseTags tags
-</code></pre>
-<p>okay</p>
+<p><img src="train.jpg" alt="foo bar" title="train &amp; tracks" /></p>

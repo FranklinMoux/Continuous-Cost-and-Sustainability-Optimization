@@ -8,12 +8,5 @@
 - `Cost efficiency and implementation of mechanisms` that empower application owners to have clear, actionable tasks for `cost and sustainability optimization`, building upon 'real-world use cases.
 
 <table><tr><td>
-<pre>
-**Hello**,
-<p><em>world</em>.
-</pre></p>
-</td></tr></table>
-
-<table><tr><td>
 Let's do it!
 </td></tr></table>

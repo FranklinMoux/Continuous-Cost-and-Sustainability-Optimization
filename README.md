@@ -24,5 +24,5 @@
 <p>okay.</p>
 
 <table><tr><td>
-foo
+Let's do it!
 </td></tr></table>

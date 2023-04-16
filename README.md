@@ -23,6 +23,6 @@
 </table>
 <p>okay.</p>
 
-<div>
-  *hello*
-         <foo><a>
+<table><tr><td>
+foo
+</td></tr></table>
